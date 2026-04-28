@@ -30,6 +30,6 @@ Get in touch
 
 Website: binaryleap.eu
 For TenantsDB: tenantsdb.com/contact
-General: contact@binaryleap.eu
+General: bl@binaryleap.eu
 
 Binary Leap OÜ · Tallinn, Estonia
